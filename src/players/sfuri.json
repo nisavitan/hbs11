@@ -1,0 +1,13 @@
+{
+  "id": "210642",
+  "name": "ספורי",
+  "fullname":"רמזי ספורי",
+  "rating": "11",
+  "photo": "./data/images/photos/ramzi.png",
+  "club": {
+    "name": "הפועל באר שבע",
+    "logo": "./data/images/clubs/hbs.svg"
+  },
+  "positions": ["RW", "AMC", "RWB","MCR"],
+  "photoFolderIndex": 1
+}

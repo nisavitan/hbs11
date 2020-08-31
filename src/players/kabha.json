@@ -1,0 +1,13 @@
+{
+  "id": "210635",
+  "name": "קבהא",
+  "fullname":"מרואן קבהא",
+  "rating": "8",
+  "photo": "./data/images/photos/kabha.png",
+  "club": {
+    "name": "הפועל באר שבע",
+    "logo": "./data/images/clubs/hbs.svg"
+  },
+  "positions": ["MCL", "MCR"],
+  "photoFolderIndex": 1
+}

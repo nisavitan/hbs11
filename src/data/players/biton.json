@@ -1,0 +1,14 @@
+{
+    "id": "210626",
+    "name": "ביטון",
+    "fullname": "עמית ביטון",
+    "rating": "26",
+    "photo": "./data/images/photos/levita.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["DCR","DCL","DCC"],
+    "photoFolderIndex": 1
+  }
+  

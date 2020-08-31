@@ -1,0 +1,13 @@
+{
+  "id": "210634",
+  "name": "ז׳וסוואה",
+  "fullname":"ז׳וסוואה פשקיירה",
+  "rating": "10",
+  "photo": "./data/images/photos/josue.png",
+  "club": {
+    "name": "הפועל באר שבע",
+    "logo": "./data/images/clubs/hbs.svg"
+  },
+  "positions": ["AMC","MCR","MCL","RW"],
+  "photoFolderIndex": 1
+}

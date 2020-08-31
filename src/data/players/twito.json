@@ -1,0 +1,14 @@
+{
+    "id": "210644",
+    "name": "טויטו",
+    "fullname": "דודי טויטו",
+    "rating": "14",
+    "photo": "./data/images/photos/twito.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["DL","LWB"],
+    "photoFolderIndex": 1
+  }
+  

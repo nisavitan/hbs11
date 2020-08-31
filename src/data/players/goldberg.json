@@ -1,0 +1,13 @@
+{
+  "id": "210632",
+  "name": "גולדברג",
+  "fullname":"שון גולדברג",
+  "rating": "13",
+  "photo": "./data/images/photos/goldberg.png",
+  "club": {
+    "name": "הפועל באר שבע",
+    "logo": "./data/images/clubs/hbs.svg"
+  },
+  "positions": ["DL","LWB"],
+  "photoFolderIndex": 1
+}

@@ -1,0 +1,13 @@
+{
+  "id": "210648",
+  "name": "יוספי",
+  "fullname":"תומר יוספי",
+  "rating": "15",
+  "photo": "./data/images/photos/yosefi.png",
+  "club": {
+    "name": "הפועל באר שבע",
+    "logo": "./data/images/clubs/hbs.svg"
+  },
+  "positions": ["MCR", "RW"],
+  "photoFolderIndex": 1
+}

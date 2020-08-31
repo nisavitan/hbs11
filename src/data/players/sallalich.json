@@ -1,0 +1,14 @@
+{
+    "id": "210641",
+    "name": "סלליך",
+    "fullname": "סינטיהו סלליך",
+    "rating": "16",
+    "photo": "./data/images/photos/sallalich.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["RW","LW","AMC","LWB","MR"],
+    "photoFolderIndex": 1
+  }
+  

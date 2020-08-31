@@ -1,0 +1,14 @@
+{
+    "id": "210624",
+    "name": "לוי",
+    "fullname":"גל לוי",
+    "rating": "23",
+    "photo": "./data/images/photos/gal.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["ST", "ST2"],
+    "photoFolderIndex": 1
+  }
+  

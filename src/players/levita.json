@@ -1,0 +1,13 @@
+{
+  "id": "210637",
+  "name": "לויטה",
+  "fullname": "אוהד לויטה",
+  "rating": "21",
+  "photo": "./data/images/photos/levita.png",
+  "club": {
+    "name": "הפועל באר שבע",
+    "logo": "./data/images/clubs/hbs.svg"
+  },
+  "positions": ["GK"],
+  "photoFolderIndex": 1
+}

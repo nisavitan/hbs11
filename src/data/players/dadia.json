@@ -1,0 +1,14 @@
+{
+    "id": "210628",
+    "name": "דדיה",
+    "fullname": "אור דדיה",
+    "rating": "30",
+    "photo": "./data/images/photos/dadia.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["DR","RWB"],
+    "photoFolderIndex": 1
+  }
+  

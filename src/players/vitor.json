@@ -1,0 +1,13 @@
+{
+  "id": "210647",
+  "name": "ויטור",
+  "fullname":"מיגל ויטור",
+  "rating": "4",
+  "photo": "./data/images/photos/vitor.png",
+  "club": {
+    "name": "הפועל באר שבע",
+    "logo": "./data/images/clubs/hbs.svg"
+  },
+  "positions": ["DCR","DCC","DCL"],
+  "photoFolderIndex": 1
+}

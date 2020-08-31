@@ -1,0 +1,13 @@
+{
+  "id": "210631",
+  "name": "גאנם",
+  "fullname":"קייס גאנם",
+  "rating": "12",
+    "photo": "./data/images/photos/ganem.png",
+  "club": {
+    "name": "הפועל באר שבע",
+    "logo": "./data/images/clubs/hbs.svg"
+  },
+  "positions": ["ST","ST2"],
+  "photoFolderIndex": 1
+}

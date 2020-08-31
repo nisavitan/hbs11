@@ -1,0 +1,14 @@
+{
+    "id": "210636",
+    "name": "קלטינס",
+    "fullname": "דוד קלטינס",
+    "rating": "3",
+    "photo": "./data/images/photos/keltjens.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["MCR","MCL","DR","DCR","DCL"],
+    "photoFolderIndex": 1
+  }
+  

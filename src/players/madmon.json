@@ -1,0 +1,14 @@
+{
+    "id": "210638",
+    "name": "מדמון",
+    "fullname": "איליי מדמון",
+    "rating": "17",
+    "photo": "./data/images/photos/madmon.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["MCR","MCL"],
+    "photoFolderIndex": 1
+  }
+  

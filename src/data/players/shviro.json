@@ -1,0 +1,14 @@
+{
+    "id": "210643",
+    "name": "שבירו",
+    "fullname": "איתמר שבירו",
+    "rating": "9",
+    "photo": "./data/images/photos/shviro.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["ST","LW"],
+    "photoFolderIndex": 1
+  }
+  

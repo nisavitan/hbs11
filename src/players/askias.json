@@ -1,0 +1,14 @@
+{
+    "id": "210627",
+    "name": "אסקיאס",
+    "fullname": "נתי אסאיקס",
+    "rating": "19",
+    "photo": "./data/images/photos/askias.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["LW", "RW", "LWB","RWB"],
+    "photoFolderIndex": 1
+  }
+  

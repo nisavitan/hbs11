@@ -1,0 +1,13 @@
+{
+  "id": "210645",
+  "name": "צדק",
+  "fullname":"שיר צדק",
+  "rating": "5",
+  "photo": "./data/images/photos/tzedek.png",
+  "club": {
+    "name": "הפועל באר שבע",
+    "logo": "./data/images/clubs/hbs.svg"
+  },
+  "positions": ["DCL","DCR","DCC"],
+  "photoFolderIndex": 1
+}

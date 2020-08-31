@@ -1,0 +1,14 @@
+{
+    "id": "210639",
+    "name": "רחמים",
+    "fullname": "רז רחמים",
+    "rating": "69",
+    "photo": "./data/images/photos/rahamim.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["GK"],
+    "photoFolderIndex": 1
+  }
+  

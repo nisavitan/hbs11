@@ -1,0 +1,14 @@
+{
+    "id": "210640",
+    "name": "רצון",
+    "fullname": "איתן רצון",
+    "rating": "40",
+    "photo": "./data/images/photos/razon.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["DCR","DCL","DCC"],
+    "photoFolderIndex": 1
+  }
+  

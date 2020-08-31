@@ -1,0 +1,14 @@
+{
+    "id": "210630",
+    "name": "גמון",
+    "fullname": "נועם גמון",
+    "rating": "22",
+    "photo": "./data/images/photos/gamon.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["DR", "RWB"],
+    "photoFolderIndex": 1
+  }
+  

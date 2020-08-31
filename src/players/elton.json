@@ -1,0 +1,13 @@
+{
+  "id": "210629",
+  "name": "אקולטסה",
+  "fullname":"אלטון אקולטסה",
+  "rating": "7",
+  "photo": "./data/images/photos/elton.png",
+  "club": {
+    "name": "הפועל באר שבע",
+    "logo": "./data/images/clubs/hbs.svg"
+  },
+  "positions": ["LW", "RW","LWB","RWB","ML"],
+  "photoFolderIndex": 1
+}

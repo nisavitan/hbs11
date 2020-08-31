@@ -1,0 +1,14 @@
+{
+    "id": "210633",
+    "name": "חטואל",
+    "fullname": "רותם חטואל",
+    "rating": "77",
+    "photo": "./data/images/photos/hatuel.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["LW","RW"],
+    "photoFolderIndex": 1
+  }
+  

@@ -1,0 +1,14 @@
+{
+    "id": "210646",
+    "name": "וראן",
+    "fullname": "אנתוני וראן",
+    "rating": "25",
+    "photo": "./data/images/photos/varenne.png",
+    "club": {
+      "name": "הפועל באר שבע",
+      "logo": "./data/images/clubs/hbs.svg"
+    },
+    "positions": ["ST","ST2"],
+    "photoFolderIndex": 1
+  }
+  
